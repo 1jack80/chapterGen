@@ -1,0 +1,641 @@
+;FFMETADATA1
+title=LearnPostgresqlAdmin
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 45000
+END=64000
+title=1. What you will learn?            
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 105000
+END=303000
+title=2. What is PostgreSQL?            
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 330000
+END=664000
+title=3. Who is using PostgreSQL?           
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 707000
+END=901000
+title=4. PostgreSQL Installation Requirements      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 915000
+END=1322000
+title=5. Installing PostgreSQL          
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 1343000
+END=1560000
+title=6. Verify the installation          
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 1563000
+END=2822000
+title=7. Connecting To a PostgreSQL Database      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 2847000
+END=3061000
+title=8. Download PostgreSQL for Windows      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 3076000
+END=3362000
+title=9. Installing PostgreSQL for Windows       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 3381000
+END=3602000
+title=10. Verify PostgreSQL Installation for Windows  
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 3623000
+END=3784000
+title=11. PostgreSQL Mac Installation     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 3820000
+END=4260000
+title=12. Connecting to a PostgreSQL Database   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 4269000
+END=4321000
+title=13. Loading Sample Database      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 4836000
+END=5103000
+title=14. Server Service        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 5137000
+END=5342000
+title=15. Database         
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 5363000
+END=5581000
+title=16. Table                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 5598000
+END=5820000
+title=17. Schema                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 5825000
+END=6003000
+title=18. Tablespace                
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 6036000
+END=6245000
+title=19. Views                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 6296000
+END=6544000
+title=20. Functions                    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 6582000
+END=6723000
+title=21. Cast and Operators              
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 6751000
+END=7141000
+title=22. Sequences                
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 7155000
+END=7385000
+title=23. Extenston                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 7437000
+END=7682000
+title=24. Basic Database Concepts             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 7408000
+END=8281000
+title=25. PostgreSQL DATA Types             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 8297000
+END=8642000
+title=26. PostgreSQL UNIQUE constraints           
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 8668000
+END=9062000
+title=27. PostgreSQL WHERE              
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 9086000
+END=9425000
+title=28. PostgreSQL SELECT              
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 9479000
+END=9904000
+title=29. PostgreSQL SELECT              
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 9940000
+END=10204000
+title=30. PostgreSQL DISTINCT             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 10240000
+END=10685000
+title=31. PostgreSQL ORDER BY             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 10737000
+END=10981000
+title=32. PostgreSQL ORDER BY             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 10999000
+END=11643000
+title=33. PostgreSQL: GROUP BY clause            
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 11674000
+END=11884000
+title=34. PostgreSQL: HAVING clause            
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 11925000
+END=12123000
+title=35. PostgreSQL TRUNCATE and DROP           
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 12158000
+END=12422000
+title=36. Introduction to PostgreSQL Stored Procedures 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 12442000
+END=12481000
+title=37. PostgreSQL CRUD Operations     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 12499000
+END=12785000
+title=38. CREATE Database Using PG4Admin   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 12839000
+END=13264000
+title=39. CREATE a Table Using PG4Admin    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 13307000
+END=13802000
+title=40. PostgreSQL CREATE TABLE     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 13827000
+END=14103000
+title=41. PostgreSQL SELECT       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 14138000
+END=14585000
+title=42. PostgreSQL Subquery       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 14631000
+END=15064000
+title=43. PostgreSQL UPDATE       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 15100000
+END=15420000
+title=44. PostgreSQL DELETE       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 15426000
+END=15964000
+title=45. PostgreSQL INSERT       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 16004000
+END=16563000
+title=46. PostgreSQL: Comparison Operator    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 16593000
+END=17104000
+title=47. PostgreSQL BETWEEN      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 17140000
+END=17461000
+title=48. PostgreSQL NOT BETWEEN     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 17473000
+END=18125000
+title=49. PostgreSQL: LIKE Operator     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 14570000
+END=18484000
+title=50. PostgreSQL NOT        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 18520000
+END=18901000
+title=51. PostgreSQL OR        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 18916000
+END=19322000
+title=52. PostgreSQL AND        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 19342000
+END=19805000
+title=53. PostgreSQL: Combining The AND | OR Operators   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 19855000
+END=20460000
+title=54. PostgreSQL LIMIT       
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 20462000
+END=21065000
+title=55. PostgreSQL IN        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 21117000
+END=21364000
+title=56. PostgreSQL: UNION Operator     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 21402000
+END=21601000
+title=57. PostgreSQL: UNION ALL Operator    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 21613000
+END=21963000
+title=58. PostgreSQL: INTERSECT Operator    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 21994000
+END=22503000
+title=59. PostgreSQL: EXCEPT Operator     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 22530000
+END=22563000
+title=60. PostgreSQL: Table Joins      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 22597000
+END=23221000
+title=61. PostgreSQL: INNER Join      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 23234000
+END=23883000
+title=62. PostgreSQL: LEFT Join      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 23911000
+END=24485000
+title=63. PostgreSQL: FULL OUTER Join     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 24532000
+END=24904000
+title=64. PostgreSQL: CROSS Join      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 24942000
+END=25561000
+title=65. PostgreSQL: NATURAL Join     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 25570000
+END=25681000
+title=66. What are Aggregate Functions?    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 25694000
+END=26401000
+title=67. AVG( )                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 26410000
+END=27061000
+title=68. COUNT( )         
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 27079000
+END=27721000
+title=69. MAX( )                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 27739000
+END=28261000
+title=70. MIN( )                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 28277000
+END=28680000
+title=71. SUM( )                 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 28686000
+END=28984000
+title=72. What are Analytic (Window) Functions   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 29025000
+END=29344000
+title=73. Creating sample Tables      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 29385000
+END=29584000
+title=74. Using AVG as a Window Function    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 29629000
+END=30124000
+title=75. Row_NUMBER () Function      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 30163000
+END=30305000
+title=76. Rank () Function        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 30355000
+END=30484000
+title=77. DENSE_RANK () Function      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 30528000
+END=30661000
+title=78. FIRST_VALUE () Function      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 30674000
+END=30845000
+title=79. LAST_VALUE () Function      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 30897000
+END=31025000
+title=80. LAG () Function        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 31076000
+END=31261000
+title=81. LEAD () Function        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 31276000
+END=31560000
+title=82. Introduction To PostgreSQL Views    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 31560000
+END=32100000
+title=83. Creating PostgreSQL Views     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 32108000
+END=32464000
+title=84. Modifying PostgreSQL Views     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 32500000
+END=32761000
+title=85. Introducting to PostgreSQL Updatable Views   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 32777000
+END=33244000
+title=86. Creating PostgreSQL Updatable Views     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 33280000
+END=33420000
+title=87. Introduction to PostgreSQL Materialized Views   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 33422000
+END=33964000
+title=88. Creating PostgreSQL Materialized Views    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 34008000
+END=34502000
+title=89. Introduction To PostgreSQL Trigger             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 34528000
+END=35163000
+title=90. Creating your first PostgreSQL Trigger     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 35193000
+END=35702000
+title=91. Creating a Trigger Function              
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 35722000
+END=36541000
+title=92. Crating a Trigger                        
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 36550000
+END=36903000
+title=93. Managing PostgreSQL Triggers    
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 36937000
+END=37024000
+title=94. Introduction to PostgreSQL Roles Management 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 37064000
+END=37320000
+title=95. Database Roles                      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 37320000
+END=37921000
+title=96. Role Attributes                      
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 37933000
+END=38104000
+title=97. Group and Users Role Inheritance             
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 38149000
+END=38462000
+title=98. Removing (dropping) Roles            
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 38488000
+END=38760000
+title=99. Define a Role Using Pgadmin4 GUI           
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 38760000
+END=39184000
+title=100. Backing Up Databases     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 39228000
+END=39482000
+title=101. Backing Up a Single Database using pgadmin 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 39504000
+END=40081000
+title=102. Restoring a PostgreSQL Database   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 40095000
+END=40503000
+title=103. Restoring a PostgreSQL Database using pgadmin 
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 40535000
+END=40923000
+title=104. Creating a PostgreSQL tablespace   
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 40952000
+END=41102000
+title=105. Changing Tablespaces     
+
+[CHAPTER] 
+TIMEBASE=1/1000 
+START= 41127000
+END=41222000
+title=106. Deleting Tablespaces             
+
+[SREAM]
+title=LearnPostgresqlAdmin

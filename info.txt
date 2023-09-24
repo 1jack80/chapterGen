@@ -1,0 +1,107 @@
+1. What you will learn?            0:45 –      1:45
+2. What is PostgreSQL?            1:45 –      5:30
+3. Who is using PostgreSQL?           5:30 –    11:47
+4. PostgreSQL Installation Requirements      11:47 –    15:15
+5. Installing PostgreSQL          15:15 –    22:23
+6. Verify the installation          22:23 –    26:03
+7. Connecting To a PostgreSQL Database      26:03 –    47:27
+8. Download PostgreSQL for Windows      47:27 –    51:16
+9. Installing PostgreSQL for Windows       51:16 –    56:21
+10. Verify PostgreSQL Installation for Windows  56:21 – 1:00:23
+11. PostgreSQL Mac Installation     1:00:23 – 1:03:40
+12. Connecting to a PostgreSQL Database   1:03:40 – 1:11:09
+13. Loading Sample Database      1:11:09 – 1:12:10
+14. Server Service        1:20:36 – 1:25:37
+15. Database         1:25:37 – 1:29:23
+16. Table                 1:29:23 – 1:33:18
+17. Schema                 1:33:18 – 1:37:05
+18. Tablespace                1:37:05 – 1:40:36
+19. Views                 1:40:36 – 1:44:56
+20. Functions                    1:44:56 – 1:49:42
+21. Cast and Operators              1:49:42 – 1:52:31
+22. Sequences                1:52:31 – 1:59:15
+23. Extenston                 1:59:15 – 2:03:57
+24. Basic Database Concepts             2:03:57 – 2:08:28
+25. PostgreSQL DATA Types             2:03:28 – 2:18:17
+26. PostgreSQL UNIQUE constraints           2:18:17 – 2:24:28
+27. PostgreSQL WHERE              2:24:28 – 2:31:26
+28. PostgreSQL SELECT              2:31:26 – 2:37:59
+29. PostgreSQL SELECT              2:37:59 – 2:45:40
+30. PostgreSQL DISTINCT             2:45:40 – 2:50:40
+31. PostgreSQL ORDER BY             2:50:40 – 2:58:57
+32. PostgreSQL ORDER BY             2:58:57 – 3:03:18
+33. PostgreSQL: GROUP BY clause            3:03:19 – 3:14:34
+34. PostgreSQL: HAVING clause            3:14:34 – 3:18:45
+35. PostgreSQL TRUNCATE and DROP           3:18:45 – 3:22:38
+36. Introduction to PostgreSQL Stored Procedures 3:22:38 – 3:27:22
+37. PostgreSQL CRUD Operations     3:27:22 – 3:28:19
+38. CREATE Database Using PG4Admin   3:28:19 – 3:33:59
+39. CREATE a Table Using PG4Admin    3:33:59 – 3:41:47
+40. PostgreSQL CREATE TABLE     3:41:47 – 3:50:27
+41. PostgreSQL SELECT       3:50:27 – 3:55:38
+42. PostgreSQL Subquery       3:55:38 – 4:03:51
+43. PostgreSQL UPDATE       4:03:51 – 4:11:40
+44. PostgreSQL DELETE       4:11:40 – 4:17:06
+45. PostgreSQL INSERT       4:17:06 – 4:26:44
+46. PostgreSQL: Comparison Operator    4:26:44 – 4:36:33
+47. PostgreSQL BETWEEN      4:36:33 – 4:45:40
+48. PostgreSQL NOT BETWEEN     4:45:40 – 4:51:13
+49. PostgreSQL: LIKE Operator     4:51:13 – 5:02:50
+50. PostgreSQL NOT        4:02:50 – 5:08:40
+51. PostgreSQL OR        5:08:40 – 5:15:16
+52. PostgreSQL AND        5:15:16 – 5:22:22
+53. PostgreSQL: Combining The AND | OR Operators   5:22:22 – 5:30:55
+54. PostgreSQL LIMIT       5:30:55 – 5:41:02
+55. PostgreSQL IN        5:41:02 – 5:51:57
+56. PostgreSQL: UNION Operator     5:51:57 – 5:56:42
+57. PostgreSQL: UNION ALL Operator    5:56:42 – 6:00:13
+58. PostgreSQL: INTERSECT Operator    6:00:13 – 6:06:34
+59. PostgreSQL: EXCEPT Operator     6:06:34 – 6:15:30
+60. PostgreSQL: Table Joins      6:15:30 – 6:16:37
+61. PostgreSQL: INNER Join      6:16:37 – 6:27:14
+62. PostgreSQL: LEFT Join      6:27:14 – 6:38:31
+63. PostgreSQL: FULL OUTER Join     6:38:31 – 6:48:52
+64. PostgreSQL: CROSS Join      6:48:52 – 6:55:42
+65. PostgreSQL: NATURAL Join     6:55:42 – 7:06:10
+66. What are Aggregate Functions?    7:06:10 – 7:08:14
+67. AVG( )                 7:08:14 – 7:20:10
+68. COUNT( )         7:20:10 – 7:31:19
+69. MAX( )                 7:31:19 – 7:42:19
+70. MIN( )                 7:42:19 – 7:51:17
+71. SUM( )                 7:51:17 – 7:58:06
+72. What are Analytic (Window) Functions   7:58:06 – 8:03:45
+73. Creating sample Tables      8:03:45 – 8:09:45
+74. Using AVG as a Window Function    8:09:45 – 8:13:49
+75. Row_NUMBER () Function      8:13:49 – 8:22:43
+76. Rank () Function        8:22:43 – 8:25:55
+77. DENSE_RANK () Function      8:25:55 – 8:28:48
+78. FIRST_VALUE () Function      8:28:48 – 8:31:14
+79. LAST_VALUE () Function      8:31:14 –   8:34:57
+80. LAG () Function        8:34:57 –   8:37:56
+81. LEAD () Function        8:37:56 –   8:41:16
+82. Introduction To PostgreSQL Views    8:41:16 –   8:46:00
+83. Creating PostgreSQL Views     8:46:00 –   8:55:08
+84. Modifying PostgreSQL Views     8:55:08 –   9:01:40
+85. Introducting to PostgreSQL Updatable Views   9:01:40 –   9:06:17
+86. Creating PostgreSQL Updatable Views     9:06:17 –   9:14:40
+87. Introduction to PostgreSQL Materialized Views   9:14:40 –   9:17:02
+88. Creating PostgreSQL Materialized Views    9:17:02 –   9:26:48
+89. Introduction To PostgreSQL Trigger             9:26:48 –   9:35:28
+90. Creating your first PostgreSQL Trigger     9:35:28 –   9:46:33
+91. Creating a Trigger Function              9:46:33 –   9:55:22
+92. Crating a Trigger                        9:55:22 – 10:09:10
+93. Managing PostgreSQL Triggers    10:09:10 – 10:15:37
+94. Introduction to PostgreSQL Roles Management 10:15:37 – 10:17:44
+95. Database Roles                      10:17:44 – 10:22:00
+96. Role Attributes                      10:22:00 – 10:32:13
+97. Group and Users Role Inheritance             10:32:13 – 10:35:49
+98. Removing (dropping) Roles            10:35:49 – 10:41:28
+99. Define a Role Using Pgadmin4 GUI           10:41:28 – 10:46:00
+100. Backing Up Databases     10:46:00 – 10:53:48
+101. Backing Up a Single Database using pgadmin 10:53:48 – 10:58:24
+102. Restoring a PostgreSQL Database   10:58:24 – 11:08:15
+103. Restoring a PostgreSQL Database using pgadmin 11:08:15 – 11:15:35
+104. Creating a PostgreSQL tablespace   11:15:35 – 11:22:32
+105. Changing Tablespaces     11:22:32 – 11:25:27
+106. Deleting Tablespaces             11:25:27 – 11:27:24
+
